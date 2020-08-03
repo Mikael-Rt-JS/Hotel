@@ -1,0 +1,122 @@
+[
+  {
+    "id": "TheAlexander",
+    "idURL": "/theAlexander",
+    "hotelName": "The Alexander, a Luxury Collection Hotel, Yerevan",
+    "imgURL": "https://lh3.googleusercontent.com/p/AF1QipMVxk6EhgqMHntC4e_fS-em7GxsE-fTi-RK_sXF=w296-h202-n-k-rw-no-v1",
+    "starRaiting": "5",
+    "street": "3, 4 Abovyan St, Yerevan 0001",
+    "ring": "tel:+37411206000",
+    "phone": "(011) 206000",
+    "smallAbout": "An elite hotel with exquisite rooms and suites, a top-floor restaurant, indoor pool and library.",
+    "price": "228291"
+  },
+  {
+    "id": "Messier53",
+    "idURL": "/messier53",
+    "hotelName": "Messier 53 Hotel Yerevan",
+    "imgURL": "https://lh3.googleusercontent.com/p/AF1QipOO_-L7tCa4nynbdkY_yUmDQxcVezfA0p--ocjt=w296-h202-n-k-rw-no-v1",
+    "starRaiting": "4",
+    "street": "15/4 Vardanants St, Yerevan 0010",
+    "ring": "tel:+37411530053",
+    "phone": "(011) 530053",
+    "smallAbout": "An elite hotel with modern rooms, a restaurant, bar, spa and free breakfast.",
+    "price": "40000"
+  },
+  {
+    "id": "GrandHotel",
+    "idURL": "/grandHotel",
+    "hotelName": "Grand Hotel Yerevan",
+    "imgURL": "https://lh3.googleusercontent.com/p/AF1QipOhjosv2yGnsbFPqNdEgaOrG5-auSeB82YCs95l=w296-h202-n-k-rw-no-v1",
+    "starRaiting": "5",
+    "street": "14 Abovyan St, Yerevan 0001",
+    "ring": "tel:+37410591600",
+    "phone": "(010) 591600",
+    "smallAbout": "An upscale hotel with a restaurant and spa and a rooftop terrace with an outdoor pool and bar.",
+    "price": "43400"
+  },
+  {
+    "id": "Ani",
+    "idURL": "/ani",
+    "hotelName": "Ani Plaza Hotel",
+    "imgURL": "https://lh3.googleusercontent.com/p/AF1QipNdtPag-XIzvthddB0uHYtPQzpEtTZK_NW8inLP=w296-h202-n-k-rw-no-v1",
+    "starRaiting": "4",
+    "street": "19 Sayat-Nova Ave, Yerevan 0001",
+    "ring": "tel:+37410589500",
+    "phone": "(010) 589500",
+    "smallAbout": "A hotel with modest rooms and luxurious suites, an indoor pool, courtyard bar and 2 restaurants.",
+    "price": "40423"
+  },
+  {
+    "id": "CentralHotel",
+    "idURL": "/centralHotel",
+    "hotelName": "CENTRAL HOTEL YEREVAN",
+    "imgURL": "https://lh3.googleusercontent.com/p/AF1QipNF__z1T3X-L0_NRn9mZuuf589a5lCliwU1ftEP=w296-h202-n-k-rw-no-v1",
+    "starRaiting": "4",
+    "street": "7, 1 Zakyan St, Yerevan 0010",
+    "ring": "tel:+37410600300",
+    "phone": "(010) 600300",
+    "smallAbout": "An elegant business hotel with bright rooms, a cozy wine bar, an indoor pool and a luxury cafÃ©.",
+    "price": "45353"
+  },
+  {
+    "id": "RadissonBlu",
+    "idURL": "/radissonBlu",
+    "hotelName": "Radisson Blu Hotel, Yerevan",
+    "imgURL": "https://lh3.googleusercontent.com/p/AF1QipN8YPUEYBVA79VtQJhPtvdRgCsGpABNvIKK4dNy=w296-h202-n-k-rw-no-v1",
+    "starRaiting": "5",
+    "street": "2, 2 Azatutyan Ave, Yerevan 0037",
+    "ring": "tel:+37410219900",
+    "phone": "(010) 219900",
+    "smallAbout": "An upscale hotel with exquisite rooms, restaurants and a cigar bar, and a spa with pool.",
+    "price": "37067"
+  },
+  {
+    "id": "GrandResort",
+    "idURL": "/grandResort",
+    "hotelName": "Grand Resort Jermuk",
+    "imgURL": "https://lh3.googleusercontent.com/proxy/jdYkAve0wgCCL1T4Aq6iY57Y7j6oA7qMAvOQNAxg8CB5G_4OSO-D6dhFmjN8nlTDME-7J9ta8x2rZR2xJzMqVnptvyyxRHwTO4jsGGC5pd3gVG_0Q0yuGRfqBznPwL6zOuOGmsc2imA8Qu_BkUyUYL-H3PyhOg=w296-h202-n-k-rw-no-v1",
+    "starRaiting": "4",
+    "street": "7, 5 Shahumyan Street, Jermuk 3701",
+    "ring": "tel:+37410219900",
+    "phone": "(010) 219900",
+    "smallAbout": "An upscale hotel with exquisite rooms, restaurants and a cigar bar, and a spa with pool.",
+    "price": "37067"
+  },
+  {
+    "id": "Erebuni",
+    "idURL": "/erebuni",
+    "hotelName": "Hotel EREBUNI",
+    "imgURL": "https://lh3.googleusercontent.com/p/AF1QipOK6hbg4oYJj1RumUt6b37Tmd7KzlgZDPoxbomh=w296-h202-n-k-rw-no-v1",
+    "starRaiting": "3",
+    "street": "26, 4 Vazgen Sargsyan St, Yerevan 0010",
+    "ring": "tel:+37410580505",
+    "phone": "(010) 580505",
+    "smallAbout": "Modest hotel with a lobby bar, restaurant, free breakfast and Wi-Fi access.",
+    "price": "25649"
+  },
+  {
+    "id": "HyattPlaceYerevan",
+    "idURL": "/hyattPlaceYerevan",
+    "hotelName": "Hyatt Place Yerevan",
+    "imgURL": "https://lh3.googleusercontent.com/p/AF1QipMO7Ntpmnw5sDlSx8lXhZmX7SQwkQqaBiIz-YkZ=w296-h202-n-k-rw-no-v1",
+    "starRaiting": "4",
+    "street": "26/1 V. Sargsyan Street, 0010",
+    "ring": "tel:+37411221234",
+    "phone": "(011) 221234",
+    "smallAbout": "A hotel with modern rooms, including deluxe rooms, a 24-hour cafÃ©, bar and gym.",
+    "price": "36189"
+  },
+  {
+    "id": "DoubleTree",
+    "idURL": "/doubleTree",
+    "hotelName": "DoubleTree by Hilton Hotel Yerevan City Centre",
+    "imgURL": "https://lh3.googleusercontent.com/p/AF1QipMjE6ULZduUnwyla4T6Xk4hnDW9sa9JVglzqn_D=w296-h202-n-k-rw-no-v1",
+    "starRaiting": "4",
+    "street": "4/2 Grigor Lusavorich Street, Yerevan 0015",
+    "ring": "tel:+37411555333",
+    "phone": "(011) 555333",
+    "smallAbout": "Modern hotel: free parking and Wi-Fi, high-end restaurant, 24-hour bar and spa area.",
+    "price": "40423"
+  }
+]
